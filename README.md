@@ -1,4 +1,4 @@
-![](https://github.com/AnnaAn117/AnnaAn/blob/main/background.jpg)
+//![](https://github.com/AnnaAn117/AnnaAn/blob/main/background.jpg)
 
 #### ✨ Technical Stacks ✨
 
